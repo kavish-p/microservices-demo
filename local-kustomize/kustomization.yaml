@@ -7,6 +7,6 @@ images:
     newTag: 3ac8c79
   - name: us-central1-docker.pkg.dev/google-samples/microservices-demo/paymentservice
     newName: host.docker.internal:5443/microservices-demo/paymentservice
-    digest: sha256:8c5cb45b9ea90b1da144e394d7d2dbd3c502a688d478d46b966c764ab84135ba
+    digest: sha256:d9576dfecfb75ad8336d48169c5d7f256ec75ddf20faf3c6a3f051b495591f62
 patches:
   - path: delete-frontend-external.yaml
